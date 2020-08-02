@@ -1,0 +1,5 @@
+
+
+# 10.04.2020:
+- Ported to python 3
+- Changed absolute paths fo fixed paths
